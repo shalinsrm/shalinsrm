@@ -9,8 +9,8 @@ Currently on the **US Cyber Pipeline Team**
 ## 🏆 Competitive Highlights
 
 - 11th place - National Cyber League (Experienced Bracket), 2950 points
-- Top 14 - picoCTF 2026
-- Top 28 - picoCTF 2025
+- 35/8758 (Top 0.3%) Worldwide - picoCTF 2026
+- Top 28 in the US - picoCTF 2025
 - Top 33 - US Cyber Games Competitive CTF (Individual)
 - 44th place - National Cyber League Individual Bracket
 
